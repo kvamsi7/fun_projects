@@ -52,5 +52,5 @@ To run this project locally, follow these steps:
 ## Contributing
 Contributions are welcome! To contribute to this project, fork the repository, create a new branch, and submit a pull request. 
 
-## License
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+<!-- ## License
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.--?
