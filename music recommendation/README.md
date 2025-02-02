@@ -8,7 +8,6 @@ A music recommendation system that suggests similar songs based on playlist data
 - [Usage](#usage)
 - [Data Sources](#data-sources)
 - [Example](#example)
-- [License](#license)
 
 ## Project Description
 This recommendation system uses Word2Vec machine learning techniques to analyze playlist patterns and recommend songs that frequently appear together in user-generated playlists. The system trains on playlist data and song metadata to generate contextual recommendations.
@@ -40,12 +39,12 @@ Key features:
 - Song metadata: song_hash.txt from Google Cloud Storage
 - Both files are automatically fetched during execution
 
-Example
-Sample Input
+### Example
+- Sample Input
 ``` bash
 print(print_recommendations(2172))
 ```
-Expected outpu
+- Expected output
 ``` bash
 Song Info: 
 Title: Hey Jude
